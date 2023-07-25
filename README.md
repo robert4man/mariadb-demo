@@ -1,2 +1,2 @@
-# mysql-demo
-MySQL dev container demo for Codespaces
+# MariaDB Demo Container
+MariaDB dev container demo for Codespaces
